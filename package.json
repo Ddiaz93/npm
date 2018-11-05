@@ -1,0 +1,23 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "read json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "load-json-file": "^5.1.0",
+    "lodash": "^4.17.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ddiaz93/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ddiaz93/npm/issues"
+  },
+  "homepage": "https://github.com/Ddiaz93/npm#readme"
+}
